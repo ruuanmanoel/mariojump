@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\bkrua\OneDrive\Área de Trabalho\SFML environments\Jump Mario\JumpMario\main.cpp(18,120): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\bkrua\OneDrive\Área de Trabalho\SFML environments\Jump Mario\JumpMario\main.cpp(22,26): warning C4305: 'argument': truncation from 'double' to 'float'
+  JumpMario.vcxproj -> C:\Users\bkrua\OneDrive\Área de Trabalho\SFML environments\Jump Mario\JumpMario\Debug\JumpMario.exe
